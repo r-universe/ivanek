@@ -8,8 +8,3 @@
 	url = https://github.com/ivanek/gviz
 	shallow = true
 	registered = true
-[submodule "seqLogo"]
-	path = seqLogo
-	url = https://github.com/ivanek/seqlogo
-	shallow = true
-	registered = true
