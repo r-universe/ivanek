@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Gviz"]
+	path = Gviz
+	url = https://github.com/ivanek/gviz
+	shallow = true
+	registered = true
+[submodule "seqLogo"]
+	path = seqLogo
+	url = https://github.com/ivanek/seqlogo
+	shallow = true
+	registered = true
