@@ -1,8 +1,8 @@
 [
   {
-    "package": "Gviz"
+    "package": "seqLogo"
   },
   {
-    "package": "seqLogo"
+    "package": "Gviz"
   }
 ]
